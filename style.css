@@ -9,7 +9,11 @@
 }
 
 .center-list {
-	width: 50%;
+	width: 90%;
 	text-align: left;
 	display: inline-block;
 }
+
+p { color: red;}
+
+li{ color: blue}
